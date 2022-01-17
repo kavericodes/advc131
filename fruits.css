@@ -1,0 +1,32 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+canvas{
+    box-shadow: 10px 10px 10px purple;
+    border-radius: 10px;
+}
+
+.back{
+    margin-right: 1900px;
+    margin-left: 18px;
+    margin-top: 10px;
+}
+
+#label{
+    font-style: oblique;
+    font-size: 20px;
+}
